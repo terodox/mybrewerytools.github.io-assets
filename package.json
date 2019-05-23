@@ -1,0 +1,31 @@
+{
+  "name": "mybrewerytools.github.io-assets",
+  "version": "0.0.0",
+  "description": "The javascript and css assets for mybrewerytools.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terodox/mybrewerytools.github.io-assets.git"
+  },
+  "keywords": [
+    "brewing",
+    "brew",
+    "homebrew",
+    "brewery",
+    "tools",
+    "calculators"
+  ],
+  "author": "MyBreweryTools <mybrewerytools@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terodox/mybrewerytools.github.io-assets/issues"
+  },
+  "homepage": "https://github.com/terodox/mybrewerytools.github.io-assets#readme",
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "jest": "24.8.0"
+  }
+}
